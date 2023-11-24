@@ -1,0 +1,48 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(riscv.singlecycle.InstructionFetchTest, org.scalatest.tools.Framework$$anon$1@87a14f8, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(riscv.singlecycle.FibonacciTest, org.scalatest.tools.Framework$$anon$1@87a14f8, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(riscv.singlecycle.InstructionDecoderTest, org.scalatest.tools.Framework$$anon$1@87a14f8, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(riscv.singlecycle.ExecuteTest, org.scalatest.tools.Framework$$anon$1@87a14f8, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mInstructionDecoderTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mInstructionDecoder of Single Cycle CPU[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce correct control signal[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(riscv.singlecycle.RegisterFileTest, org.scalatest.tools.Framework$$anon$1@87a14f8, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mExecuteTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mExecution of Single Cycle CPU[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should execute correctly[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(riscv.singlecycle.QuicksortTest, org.scalatest.tools.Framework$$anon$1@87a14f8, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mInstructionFetchTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mInstructionFetch of Single Cycle CPU[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should fetch instruction[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(riscv.singlecycle.Find_stringTest, org.scalatest.tools.Framework$$anon$1@87a14f8, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFibonacciTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSingle Cycle CPU[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should recursively calculate Fibonacci(10)[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(riscv.singlecycle.ByteAccessTest, org.scalatest.tools.Framework$$anon$1@87a14f8, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mByteAccessTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSingle Cycle CPU[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should store and load a single byte[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mQuicksortTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSingle Cycle CPU[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should perform a quicksort on 10 numbers[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFind_stringTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSingle Cycle CPU[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should execute calculate find_string[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRegisterFileTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRegister File of Single Cycle CPU[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should read the written content[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should x0 always be zero[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should read the writing content[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 24 seconds, 562 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 10[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 8, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 10, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	riscv.singlecycle.InstructionDecoderTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	riscv.singlecycle.ByteAccessTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	riscv.singlecycle.InstructionFetchTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	riscv.singlecycle.Find_stringTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	riscv.singlecycle.ExecuteTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	riscv.singlecycle.FibonacciTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	riscv.singlecycle.RegisterFileTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	riscv.singlecycle.QuicksortTest[0m

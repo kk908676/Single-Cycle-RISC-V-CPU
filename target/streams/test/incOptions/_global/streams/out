@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/an/ca2023-lab3/target/scala-2.13/test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestTopModule$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ByteAccessTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	QuicksortTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestTopModule.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FibonacciTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Find_stringTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestTopModule$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ByteAccessTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	QuicksortTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestTopModule.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FibonacciTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Find_stringTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestTopModule$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ByteAccessTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	QuicksortTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestTopModule.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FibonacciTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Find_stringTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/an/ca2023-lab3/target/scala-2.13/test-classes.bak[0m

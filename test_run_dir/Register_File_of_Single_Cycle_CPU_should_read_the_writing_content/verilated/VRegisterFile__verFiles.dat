@@ -1,0 +1,12 @@
+# DESCRIPTION: Verilator output: Timestamp data for --skip-identical.  Delete at will.
+C "--cc --exe RegisterFile-harness.cpp --assert --coverage-user -Wno-fatal -Wno-WIDTH -Wno-STMTDLY --top-module RegisterFile +define+TOP_TYPE=VRegisterFile -CFLAGS -O1 -DVL_USER_STOP -DVL_USER_FATAL -DVL_USER_FINISH -DTOP_TYPE=VRegisterFile -include VRegisterFile.h -fPIC -shared -I'/usr/lib/jvm/java-11-openjdk-amd64/include' -I'/usr/lib/jvm/java-11-openjdk-amd64/include/linux' -fvisibility=hidden -Mdir /home/an/ca2023-lab3/test_run_dir/Register_File_of_Single_Cycle_CPU_should_read_the_writing_content/verilated -LDFLAGS -shared -dynamiclib -fvisibility=hidden RegisterFile.sv"
+T     54100 15473263  1700640476   628278961  1700640476   628278961 "/home/an/ca2023-lab3/test_run_dir/Register_File_of_Single_Cycle_CPU_should_read_the_writing_content/verilated/VRegisterFile.cpp"
+T      4919 15473262  1700640476   628278961  1700640476   628278961 "/home/an/ca2023-lab3/test_run_dir/Register_File_of_Single_Cycle_CPU_should_read_the_writing_content/verilated/VRegisterFile.h"
+T      2156 15473265  1700640476   628278961  1700640476   628278961 "/home/an/ca2023-lab3/test_run_dir/Register_File_of_Single_Cycle_CPU_should_read_the_writing_content/verilated/VRegisterFile.mk"
+T       574 15473240  1700640476   628278961  1700640476   628278961 "/home/an/ca2023-lab3/test_run_dir/Register_File_of_Single_Cycle_CPU_should_read_the_writing_content/verilated/VRegisterFile__Syms.cpp"
+T       830 15473257  1700640476   628278961  1700640476   628278961 "/home/an/ca2023-lab3/test_run_dir/Register_File_of_Single_Cycle_CPU_should_read_the_writing_content/verilated/VRegisterFile__Syms.h"
+T       979 15473266  1700640476   628278961  1700640476   628278961 "/home/an/ca2023-lab3/test_run_dir/Register_File_of_Single_Cycle_CPU_should_read_the_writing_content/verilated/VRegisterFile__ver.d"
+T         0        0  1700640476   628278961  1700640476   628278961 "/home/an/ca2023-lab3/test_run_dir/Register_File_of_Single_Cycle_CPU_should_read_the_writing_content/verilated/VRegisterFile__verFiles.dat"
+T      1279 15473264  1700640476   628278961  1700640476   628278961 "/home/an/ca2023-lab3/test_run_dir/Register_File_of_Single_Cycle_CPU_should_read_the_writing_content/verilated/VRegisterFile_classes.mk"
+S   7484256 17836996  1700460998   422819614  1581264640           0 "/usr/bin/verilator_bin"
+S     40058 15473284  1700640476   548278055  1700640476   548278055 "RegisterFile.sv"

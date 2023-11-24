@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 74 products, 16 sources, 4 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/riscv/core/Execute.scala, ${BASE}/src/main/scala/riscv/core/RegisterFile.scala, ${BASE}/src/main/scala/peripheral/Dummy.scala, ${BASE}/src/main/scala/peripheral/InstructionROM.scala, ${BASE}/src/main/scala/riscv/core/ALU.scala, ${BASE}/src/main/scala/peripheral/ROMLoader.scala, ${BASE}/src/main/scala/board/verilator/Top.scala, ${BASE}/src/main/scala/riscv/core/ALUControl.scala, ${BASE}/src/main/scala/riscv/core/InstructionDecode.scala, ${BASE}/src/main/scala/riscv/core/CPU.scala, ${BASE}/src/main/scala/riscv/CPUBundle.scala, ${BASE}/src/main/scala/riscv/core/MemoryAccess.scala, ${BASE}/src/main/scala/riscv/core/WriteBack.scala, ${BASE}/src/main/scala/riscv/core/InstructionFetch.scala, ${BASE}/src/main/scala/riscv/Parameters.scala, ${BASE}/src/main/scala/peripheral/Memory.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m

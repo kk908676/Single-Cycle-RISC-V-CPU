@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/an/ca2023-lab3/src/main/scala/riscv/core/Execute.scala:54:40: method apply in object MuxLookup is deprecated (since Chisel 3.6): Use MuxLookup(key, default)(mapping) instead[0m
+[0m[[0m[33mwarn[0m] [0m[0m    (opcode === InstructionTypes.B) && MuxLookup([0m
+[0m[[0m[33mwarn[0m] [0m[0m                                       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

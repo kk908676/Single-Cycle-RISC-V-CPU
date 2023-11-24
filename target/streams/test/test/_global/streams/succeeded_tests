@@ -1,0 +1,10 @@
+#Successful Tests
+#Wed Nov 22 16:07:58 CST 2023
+riscv.singlecycle.InstructionDecoderTest=1700640464398
+riscv.singlecycle.FibonacciTest=1700640469838
+riscv.singlecycle.ByteAccessTest=1700640475650
+riscv.singlecycle.ExecuteTest=1700640464502
+riscv.singlecycle.QuicksortTest=1700640475656
+riscv.singlecycle.InstructionFetchTest=1700640464589
+riscv.singlecycle.RegisterFileTest=1700640478804
+riscv.singlecycle.Find_stringTest=1700640476000

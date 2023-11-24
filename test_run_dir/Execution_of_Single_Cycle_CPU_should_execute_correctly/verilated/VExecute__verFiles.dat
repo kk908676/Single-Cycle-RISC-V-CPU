@@ -1,0 +1,12 @@
+# DESCRIPTION: Verilator output: Timestamp data for --skip-identical.  Delete at will.
+C "--cc --exe Execute-harness.cpp --assert --coverage-user -Wno-fatal -Wno-WIDTH -Wno-STMTDLY --top-module Execute +define+TOP_TYPE=VExecute -CFLAGS -O1 -DVL_USER_STOP -DVL_USER_FATAL -DVL_USER_FINISH -DTOP_TYPE=VExecute -include VExecute.h -fPIC -shared -I'/usr/lib/jvm/java-11-openjdk-amd64/include' -I'/usr/lib/jvm/java-11-openjdk-amd64/include/linux' -fvisibility=hidden -Mdir /home/an/ca2023-lab3/test_run_dir/Execution_of_Single_Cycle_CPU_should_execute_correctly/verilated -LDFLAGS -shared -dynamiclib -fvisibility=hidden Execute.sv"
+T     25491 15472122  1700640458   184065450  1700640458   184065450 "/home/an/ca2023-lab3/test_run_dir/Execution_of_Single_Cycle_CPU_should_execute_correctly/verilated/VExecute.cpp"
+T      3075 15471951  1700640458   184065450  1700640458   184065450 "/home/an/ca2023-lab3/test_run_dir/Execution_of_Single_Cycle_CPU_should_execute_correctly/verilated/VExecute.h"
+T      2101 15473061  1700640458   184065450  1700640458   184065450 "/home/an/ca2023-lab3/test_run_dir/Execution_of_Single_Cycle_CPU_should_execute_correctly/verilated/VExecute.mk"
+T       549 15470624  1700640458   184065450  1700640458   184065450 "/home/an/ca2023-lab3/test_run_dir/Execution_of_Single_Cycle_CPU_should_execute_correctly/verilated/VExecute__Syms.cpp"
+T       795 15470903  1700640458   184065450  1700640458   184065450 "/home/an/ca2023-lab3/test_run_dir/Execution_of_Single_Cycle_CPU_should_execute_correctly/verilated/VExecute__Syms.h"
+T       862 15473062  1700640458   184065450  1700640458   184065450 "/home/an/ca2023-lab3/test_run_dir/Execution_of_Single_Cycle_CPU_should_execute_correctly/verilated/VExecute__ver.d"
+T         0        0  1700640458   184065450  1700640458   184065450 "/home/an/ca2023-lab3/test_run_dir/Execution_of_Single_Cycle_CPU_should_execute_correctly/verilated/VExecute__verFiles.dat"
+T      1264 15473060  1700640458   184065450  1700640458   184065450 "/home/an/ca2023-lab3/test_run_dir/Execution_of_Single_Cycle_CPU_should_execute_correctly/verilated/VExecute_classes.mk"
+S   7484256 17836996  1700460998   422819614  1581264640           0 "/usr/bin/verilator_bin"
+S     11225 15473365  1700640458    64064031  1700640458    64064031 "Execute.sv"

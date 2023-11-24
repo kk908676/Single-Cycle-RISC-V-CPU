@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/an/ca2023-lab3/src/main/resources/hello.asmbin,/home/an/ca2023-lab3/target/scala-2.13/classes/hello.asmbin)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/an/ca2023-lab3/src/main/resources/mmio.asmbin,/home/an/ca2023-lab3/target/scala-2.13/classes/mmio.asmbin)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/an/ca2023-lab3/src/main/resources/sb.asmbin,/home/an/ca2023-lab3/target/scala-2.13/classes/sb.asmbin)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/an/ca2023-lab3/src/main/resources/quicksort.asmbin,/home/an/ca2023-lab3/target/scala-2.13/classes/quicksort.asmbin)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/an/ca2023-lab3/src/main/resources/main.asmbin,/home/an/ca2023-lab3/target/scala-2.13/classes/main.asmbin)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/an/ca2023-lab3/src/main/resources/fibonacci.asmbin,/home/an/ca2023-lab3/target/scala-2.13/classes/fibonacci.asmbin)[0m

@@ -1,0 +1,1 @@
+["riscv.singlecycle.InstructionDecoderTest","riscv.singlecycle.ByteAccessTest","riscv.singlecycle.InstructionFetchTest","riscv.singlecycle.Find_stringTest","riscv.singlecycle.ExecuteTest","riscv.singlecycle.FibonacciTest","riscv.singlecycle.RegisterFileTest","riscv.singlecycle.QuicksortTest"]
