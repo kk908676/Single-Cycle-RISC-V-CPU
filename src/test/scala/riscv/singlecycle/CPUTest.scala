@@ -137,3 +137,18 @@ class Find_stringTest extends AnyFlatSpec with ChiselScalatestTester {
     }
   }
 }
+
+class Find_stringTest_for_main_opt extends AnyFlatSpec with ChiselScalatestTester {
+  behavior.of("Single Cycle CPU")
+  it should "execute calculate find_string for main_opt" in {
+    test(new TestTopModule("main_opt.asmbin")).withAnnotations(TestAnnotations.annos) { c =>
+      for (i <- 1 to 3000) {
+        c.clock.step()
+        c.io.mem_debug_read_address.poke((i * 4).U) // Avoid timeout
+      }     
+      c.io.regs_debug_read_address.poke(21.U) // #3
+      c.clock.step()
+      c.io.regs_debug_read_data.expect(0x1d.U)
+    }
+  }
+}
