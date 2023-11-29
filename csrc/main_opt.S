@@ -5,8 +5,8 @@
     t1_l: .word 0x00000000        # lower bits of test data 2, test_data2[32~63]
     t2_u: .word 0x00000000
     t2_l: .word 0x00000000
-    t3_u: .word 0x01234567
-    t3_l: .word 0x89abcdef
+    t3_u: .word 0x00000007
+    t3_l: .word 0x80000000
     buffer: .word 0 
     
 .text
